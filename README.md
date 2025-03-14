@@ -29,7 +29,7 @@ This combination allows for precise answers to factual questions while maintaini
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - Google API key (for Gemini access)
 - LlamaCloud API key and organization ID
 
@@ -38,7 +38,7 @@ This combination allows for precise answers to factual questions while maintaini
 1. Clone this repository:
 ```bash
 git clone https://github.com/pandyaved98/Assignment.git
-cd Assignment
+cd Assignment/advanced_rag
 ```
 
 2. Create a virtual environment:
